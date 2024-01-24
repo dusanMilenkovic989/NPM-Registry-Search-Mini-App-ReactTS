@@ -1,7 +1,7 @@
 {
   "name": "npm-registry-search-mini-app",
   "version": "1.0.0",
-  "description": "Mini-app for searching npm registry for packages and printing it. This application's purpose is to present, on a mini-scale, how TypeScript could be integrated effectively with React and Redux.",
+  "description": "Mini-app for searching NPM registry for packages and printing it. This application's purpose is to present, on a mini-scale, how TypeScript could be integrated effectively with React and Redux.",
   "main": "index.js",
   "scripts": {
     "build": "npx tsc",
