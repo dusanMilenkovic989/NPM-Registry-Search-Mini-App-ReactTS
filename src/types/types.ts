@@ -1,6 +1,10 @@
 import { ACTION_TYPE } from './enums'
 import { fetchRepositories } from '../redux'
 
+/*
+    Using one file for exporting the application types over the 'namespace' convention is a matter of personal choice.
+*/
+
 /**
  * Describes the structure of the application state object.
  */
